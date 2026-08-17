@@ -1,4 +1,4 @@
-# Hello World!, I'm Bogdan, a Ukrainian Web Developer 👋🏼
+# Hello World!, I'm Bogdan, a Web Developer 👋🏼
 
 <div style="display:block;margin:auto;"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN6ZGRlcjZ6NzAwNXNwc2YxZmJ2NHdvanpqOTZ3ZnlyY3gzdGJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" /></div>
 
